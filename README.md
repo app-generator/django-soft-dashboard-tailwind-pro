@@ -21,7 +21,7 @@ Designed for those who like bold elements and beautiful websites, **[Soft UI Das
   
 <br />
 
-![Soft UI Dashboard PRO - Tailwind, premium starter by AppSeed and Creative-tim](https://user-images.githubusercontent.com/51070104/227124855-012a9aaa-7556-4e7e-95ec-51c2b50c62d7.png)
+[![Soft Dashboard Tailwind PRO - Premium Django starter crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/227284620-c235e50e-f707-427a-9f76-bf08177fb1e1.png)](https://appseed.us/product/soft-dashboard-tailwind-pro/django/)
 
 <br /> 
 
