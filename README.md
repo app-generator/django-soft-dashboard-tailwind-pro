@@ -1,11 +1,12 @@
 # [Soft Tailwind Django](https://appseed.us/product/soft-dashboard-tailwind-pro/django/) `PRO`
 
-Premium **Django Dashboard** provided by `AppSeed` op top of a modern design. 
-Designed for those who like bold elements and beautiful websites, **[Soft UI Dashboard](https://appseed.us/product/soft-dashboard-tailwind-pro/django/django/)** is ready to help you create stunning websites and webapps. **Soft UI Dashboard** is built with over 100+ frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Designed by [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200).
+Premium **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** provided by `AppSeed` on top of a modern design. 
+Designed for those who like bold elements and beautiful websites, **Soft UI Dashboard** is ready to help you create stunning websites and web apps. 
+
+**Soft UI Dashboard** is built with over 100+ frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining - Designed by `Creative-Tim`.
 
 - 👉 [Soft Tailwind Django PRO](https://appseed.us/product/soft-dashboard-tailwind-pro/django/) - `product page` (contains payment link)
 - 👉 [Soft Tailwind Django PRO](https://django-soft-tailwind-pro.onrender.com/) - `LIVE Demo`
-- 🛒 **[Buy - $79](https://appseed.gumroad.com/l/django-soft-tailwind)** - via `GUMROAD` (one-time payment)
 
 <br />
 
